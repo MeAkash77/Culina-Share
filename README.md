@@ -28,7 +28,7 @@ A recipe app with the ability to save, share and discover recipes from various c
 - Clone the forked repo
 
 ```bash
-git clone https://github.com/[username]/culina-share.git
+git clone https://github.com/MeAkash77/Culina-Share.git
 ```
 
 - Install dependencies
@@ -40,8 +40,11 @@ npm install
 - Setup clerk and mongodb environment variables
 
 ```bash
-MONGO_URI=''
-CLERK...
+MONGO_URI=
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
 ```
 
 - Start the server
