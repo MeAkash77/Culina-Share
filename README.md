@@ -4,6 +4,8 @@ A recipe app with the ability to save, share and discover recipes from various c
 
 ![preview](/public/preview.png)
 
+<img width="951" height="421" alt="Image" src="https://github.com/user-attachments/assets/96dcb9ed-4dfb-4c99-9b56-00c4f81349e9" />
+
 ## Tech stack
 
 - [Next.js](https://nextjs.org/)
